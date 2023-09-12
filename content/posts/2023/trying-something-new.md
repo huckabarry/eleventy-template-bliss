@@ -1,7 +1,7 @@
 ---
 title: Sample post without a number!
 description: Post description that will be visible in HTML meta description.
-date: 2023-9-9
+date: 2023-09-09
 tags:
   - hello world
   - sample post

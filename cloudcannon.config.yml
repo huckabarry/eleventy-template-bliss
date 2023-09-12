@@ -1,6 +1,6 @@
 source: eleventy-template-bliss/content/posts
 paths:
-  uploads: uploads
+  uploads: eleventy-template-bliss/assets /images/
   data: _data
   layouts: _includes
   includes: _includes

@@ -1,9 +1,34 @@
+source: eleventy-template-bliss/content/posts
 paths:
   uploads: uploads
   data: _data
   layouts: _includes
   includes: _includes
-collections_config: {}
+collections_config:
+  posts:
+    path: eleventy-template-bliss/content/posts
+    output: false
+    icon: notes
+    _editables: {}
+    _inputs: {}
+    _select_data: {}
+    _structures: {}
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+    schemas: {}
+  pages:
+    path: eleventy-template-bliss/content/pages
+    output: false
+    icon: notes
+    _editables: {}
+    _inputs: {}
+    _select_data: {}
+    _structures: {}
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+    schemas: {}
 _inputs: {}
 _select_data: {}
 _structures: {}

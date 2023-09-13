@@ -9,9 +9,12 @@ tags:
   - test
   - tag with pagination
 image:
-  src: /images/sample-post-image.jpg
+  src: https://indw.blog/uploads/2023/9f39db6e3e.jpg
   alt: Sample post image
   credit:
     author: BRY
     url: https://www.pexels.com/photo/cute-gray-kitten-standing-on-a-wooden-flooring-774731/
 ---
+
+
+Next week marks the 20th anniversary of my father’s death. This is a weird one for me in so many ways, but what’s been coming up for me lately is that I’m about the same age he was when he killed himself in a drunk driving accident. This life has required far too much forgiveness.

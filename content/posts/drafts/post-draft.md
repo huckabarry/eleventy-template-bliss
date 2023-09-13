@@ -12,6 +12,8 @@ image:
   src: /images/sample-post-image.jpg
   alt: Sample post image
   credit:
-    author: BRY
+    author: BRYAN
     url: https://www.pexels.com/photo/cute-gray-kitten-standing-on-a-wooden-flooring-774731/
 ---
+
+This is where I write my post, no?

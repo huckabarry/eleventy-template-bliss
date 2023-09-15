@@ -24,7 +24,7 @@ module.exports = {
     // If you opt for text fallback, you may want to adjust
     // $menuBreakpoint variable in _variables.scss
     // so that site title and menu items remain within a single line.
-    logo: '/images/logo.svg',
+    logo: '',
     // Default language of the site. Used in 'lang' attribute of <html> element
     // If none is provided, no 'lang' attribute will be used.
     language: 'en',

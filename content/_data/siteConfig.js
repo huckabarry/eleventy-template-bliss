@@ -18,7 +18,7 @@ module.exports = {
     // Production URL. Used by 'alwaysProductionUrl' filter.
     // If none is provided, relative paths will be used
     // and in some cases (like sitemap.xml) that is TOTALLY NOT what you want
-    url: process.env.URL || 'https://main--admirable-pony-2e64cc.netlify.app',
+    url: process.env.URL || 'https://inthedeltawaves.blog',
     // Image used as a site logo. If none is provided, site title as text
     // will be displayed as fallback.
     // If you opt for text fallback, you may want to adjust
@@ -82,8 +82,8 @@ module.exports = {
     fediverse: [
       {
         username: 'bryan',
-        server: 'admirable-pony-2e64cc.netlify.app',
-        url: 'https://admirable-pony-2e64cc.netlify.app/',
+        server: 'inthedeltawaves.blog',
+        url: 'https://inthedeltawaves.blog/@bryan',
       },
     ],
   },

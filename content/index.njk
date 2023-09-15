@@ -7,8 +7,9 @@ pagination:
   alias: posts
 permalink: "{% if pagination.pageNumber > 0 %}/{{ pagination.pageNumber + 1 }}{% endif %}/index.html"
 ---
-
-<div class="post-list">
+<head>
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script><div class="post-list">
+</head>
   <ul>
   {% for post in posts %}
     <li>

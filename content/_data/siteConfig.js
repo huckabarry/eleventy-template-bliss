@@ -9,22 +9,22 @@ module.exports = {
     // OpenGraph tags and feeds.
     // Can also be used anywhere on the site as a Nunjucks variable:
     // {{ siteConfig.site.logo }}
-    title: 'An Elephant in the Delta Waves',
+    title: 'Bryan in the Delta Waves',
     // Site description. Used in many places, including meta title,
     // OpenGraph tags and feeds.
     // It is also used as a fallback description if no custom description
     // is provided for a page / post.
-    description: 'Simple Eleventy blog template',
+    description: 'A personal blog',
     // Production URL. Used by 'alwaysProductionUrl' filter.
     // If none is provided, relative paths will be used
     // and in some cases (like sitemap.xml) that is TOTALLY NOT what you want
-    url: process.env.URL || 'https://main--admirable-pony-2e64cc.netlify.app',
+    url: process.env.URL || 'https://inthedeltawaves.blog',
     // Image used as a site logo. If none is provided, site title as text
     // will be displayed as fallback.
     // If you opt for text fallback, you may want to adjust
     // $menuBreakpoint variable in _variables.scss
     // so that site title and menu items remain within a single line.
-    logo: '/images/logo.svg',
+    logo: '',
     // Default language of the site. Used in 'lang' attribute of <html> element
     // If none is provided, no 'lang' attribute will be used.
     language: 'en',
@@ -68,10 +68,10 @@ module.exports = {
   author: {
     // Your name. Self-explanatory I guess?
     // And you can use it anywhere on the site as {{ siteConfig.author.name }}
-    name: 'Bryan',
+    name: 'bryan',
     // Your website URL. Used in the footer. Optional.
     // Doesn't have to be the same link as this site
-    url: '',
+    url: 'https://admirable-pony-2e64cc.netlify.app',
     // Your fediverse links (e.g. Mastodon). You can provide more than one.
     // For the first account in this array your site will generate
     // .well-known/webfinger file for you so that you'll be searchable
@@ -82,8 +82,8 @@ module.exports = {
     fediverse: [
       {
         username: 'bryan',
-        server: 'indw.social',
-        url: 'https://indw.social/@bryan',
+        server: 'inthedeltawaves.blog',
+        url: 'https://inthedeltawaves.blog/@bryan',
       },
     ],
   },

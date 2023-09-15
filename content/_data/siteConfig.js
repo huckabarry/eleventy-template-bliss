@@ -68,10 +68,10 @@ module.exports = {
   author: {
     // Your name. Self-explanatory I guess?
     // And you can use it anywhere on the site as {{ siteConfig.author.name }}
-    name: 'Bryan',
+    name: 'bryan',
     // Your website URL. Used in the footer. Optional.
     // Doesn't have to be the same link as this site
-    url: '',
+    url: 'https://admirable-pony-2e64cc.netlify.app',
     // Your fediverse links (e.g. Mastodon). You can provide more than one.
     // For the first account in this array your site will generate
     // .well-known/webfinger file for you so that you'll be searchable
@@ -82,8 +82,8 @@ module.exports = {
     fediverse: [
       {
         username: 'bryan',
-        server: 'indw.social',
-        url: 'https://indw.social/@bryan',
+        server: 'https://admirable-pony-2e64cc.netlify.app',
+        url: 'https://admirable-pony-2e64cc.netlify.app/@bryan',
       },
     ],
   },

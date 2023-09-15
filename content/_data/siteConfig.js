@@ -83,7 +83,7 @@ module.exports = {
       {
         username: 'bryan',
         server: 'admirable-pony-2e64cc.netlify.app',
-        url: 'https://admirable-pony-2e64cc.netlify.app/@bryan',
+        url: 'https://admirable-pony-2e64cc.netlify.app/',
       },
     ],
   },

@@ -8,7 +8,7 @@ disclaimer:
   text: This is a text disclaimer. It will be visible on the page.
 ---
 
-<img src="/images/avatar.jpg" alt="" class="myphoto" />
+<img src="/images/IMG_2567_Original-2.jpg" alt="" class="myphoto" />
 
 I'm {{ siteConfig.author.name }}.
 

@@ -1,5 +1,5 @@
 ---
-title: I still don’t know how to proceed with my blogging. 
+title: Yo!
 description: Post description that will be visible in HTML meta description.
 date: 2023-09-16
 tags:

@@ -1,7 +1,7 @@
 ---
 title: I still don’t know how to proceed with my blogging. 
 description: Post description that will be visible in HTML meta description.
-date: September 15, 2023
+date: 2023-09-16
 tags:
 
 ---

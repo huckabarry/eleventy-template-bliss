@@ -71,7 +71,7 @@ module.exports = {
     name: 'bryan',
     // Your website URL. Used in the footer. Optional.
     // Doesn't have to be the same link as this site
-    url: 'https://admirable-pony-2e64cc.netlify.app',
+    url: 'https://inthedeltawaves.blog',
     // Your fediverse links (e.g. Mastodon). You can provide more than one.
     // For the first account in this array your site will generate
     // .well-known/webfinger file for you so that you'll be searchable
@@ -82,7 +82,7 @@ module.exports = {
     fediverse: [
       {
         username: 'bryan',
-        server: 'inthedeltawaves.blog',
+        server: 'https://inthedeltawaves.blog',
         url: 'https://inthedeltawaves.blog/@bryan',
       },
     ],
